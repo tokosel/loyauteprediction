@@ -77,5 +77,9 @@ Matrice
 accuracy <- sum(diag(Matrice)) / sum(Matrice)
 accuracy
 
+# Sauvegarder le modèle LDA
+saveRDS(model, file = "modele_lda.rds")
+
+
 
 
