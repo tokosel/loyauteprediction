@@ -23,4 +23,4 @@ Modélisation prédictive avec analyse discriminante
 Application pour le scoring de clients
 
 ## Auteur
-Analyse réalisée en 2022 par Abdoulaye SALL à but purement académique.
+Analyse réalisée en 2024 par Abdoulaye SALL à but purement académique.
