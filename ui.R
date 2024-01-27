@@ -1,3 +1,8 @@
+#Projet final du module Analyse dicriminante  Master 1 SID CRD UADB
+#Abdoulaye SALL
+#Dépôt Github: https://github.com/tokosel/Examen-final-programmation-R
+#UI
+
 library(shiny)
 
 shinyUI(fluidPage(
