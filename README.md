@@ -7,12 +7,18 @@ Sendawal est une entreprise de e-commerce au Sénégal qui souhaite mieux compre
 L'objectif est de développer un modèle prédictif permettant d'estimer la propension d'un client à rester fidèle ou à partir.
 
 ## Contenu du dépôt
+
 donnees: sendawal.csv
-Model.R : modélisation prédictive et évaluation
-ui.R : L'interface utilisateur
-server.R : La logique de l'application Shiny
-model_lda.rds: Sauvegarde du model
-rapport.pdf : rapport d'analyse détaillé
+
+- Model.R : modélisation prédictive et évaluation
+
+- ui.R : L'interface utilisateur
+
+- server.R : La logique de l'application Shiny
+
+- model_lda.rds: Sauvegarde du model
+
+- rapport.pdf : rapport d'analyse détaillé
 
 ## Méthodologie
 La démarche suivante a été suivie :
