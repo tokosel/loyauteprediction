@@ -11,6 +11,7 @@ donnees: sendawal.csv
 Model.R : modélisation prédictive et évaluation
 ui.R : L'interface utilisateur
 server.R : La logique de l'application Shiny
+model_lda.rds: Sauvegarde du model
 rapport.pdf : rapport d'analyse détaillé
 
 ## Méthodologie
